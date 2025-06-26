@@ -34,12 +34,6 @@ This project demonstrates how to deploy a secure, globally distributed static we
 - Managing SSL/TLS certificates with DNS validation
 - Real-world static site deployment workflow
 
-## 📁 Files Included
-
-- `index.html` – Website homepage
-- `README.md` – This file
-- `architecture.png` – Optional diagram showing system design
-
 ## 👨‍💻 Built With
 
 - AWS Management Console
