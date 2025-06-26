@@ -44,4 +44,4 @@ This project demonstrates how to deploy a secure, globally distributed static we
 
 ## 👋 Contact
 
-If you’re interested in this project or collaborating on AWS learning, feel free to connect on [LinkedIn](https://www.linkedin.com/in/yourusername).
+If you’re interested in this project or collaborating on AWS learning, feel free to connect on [LinkedIn](https://www.linkedin.com/in/hassan-isse).
