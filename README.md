@@ -15,7 +15,7 @@ This project demonstrates how to deploy a secure, globally distributed static we
 
 ## 🧱 Architecture Diagram
 
-![AWS Static Site Architecture](./architecture.png)![Static_Website_Architecture](https://github.com/user-attachments/assets/e358e78d-6819-44df-a3e1-032294a83ca9)
+![Static_Website_Architecture](https://github.com/user-attachments/assets/e358e78d-6819-44df-a3e1-032294a83ca9)
 
 
 ## ⚙️ Features
